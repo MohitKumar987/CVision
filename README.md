@@ -38,5 +38,5 @@ It supports `.pdf` and `.docx` files, extracts structured information, and uses 
 
 1. **Clone Repository**
    ```bash
-   git clone https://github.com/your-username/CVision.git
+   git clone https://github.com/MohitKumar987/CVision.git
    cd CVision
